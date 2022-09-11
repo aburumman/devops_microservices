@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
- dockerpath=09035077346
+dockerpath="09035077346/mlearn:1.0.1"
 
 # Step 2:  
 # Authenticate & tag
